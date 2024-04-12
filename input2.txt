@@ -1,0 +1,7 @@
+ID người dùng, Họ và tên, Gmail, SĐT, Đường, Thành phố, Quốc gia, ID game, ID giao dịch, ngày giao dịch, ID WishList, Ngày thêm, ID đánh giá, Bình luận, Điểm đánh giá, Tên game, Giá cả, ID thể loại, ID nhà phát triển, Tên thể loại, Tên nhà phát triển, Tuổi đời, loại thuế, tỉ lệ, ID thuế
+ID người dùng -> Họ và tên, Gmail, SĐT, Đường, Thành phố, Quốc gia
+ID người dùng, ID game -> ID giao dịch, ngày giao dịch, ID WishList, Ngày thêm, ID đánh giá, Bình luận, Điểm đánh giá
+ID game -> Tên game, Giá cả, ID thể loại, ID nhà phát triển
+ID thể loại -> Tên thể loại
+ID nhà phát triển -> Tên nhà phát triển, Tuổi đời
+ID thuế -> loại thuế, tỉ lệ

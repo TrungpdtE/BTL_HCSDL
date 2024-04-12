@@ -1,0 +1,2 @@
+{'ID game', 'ID thuế', 'ID người dùng'} có bao đóng: {'Ngày thêm', 'Gmail', 'Quốc gia', 'Đường', 'SĐT', 'Tên nhà phát triển', 'ngày giao dịch', 'ID game', 'Điểm đánh giá', 'ID đánh giá', 'Tên thể loại', 'Bình luận', 'tỉ lệ', 'ID thể loại', 'Giá cả', 'Tuổi đời', 'loại thuế', 'ID người dùng', 'Họ và tên', 'Tên game', 'ID thuế', 'Thành phố', 'ID giao dịch', 'ID WishList', 'ID nhà phát triển'}
+[{'ID game', 'ID thuế', 'ID người dùng'}]
